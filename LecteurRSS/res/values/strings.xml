@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RSS Reader</string>
+    <string name="action_settings">Delete all feeds</string>
+    <string name="action_add">Add RSS</string>
+    <string name="title_activity_add_rss">Add a new feed</string>
+    <string name="nameDialogHint">name (CNN, &#8230;)</string>
+    <string name="urlDialogHint">www.yoururl&#8230;</string>
+    <string name="saveBtnDialog">Save</string>
+    <string name="cancelBtnDialog">Cancel</string>
+    <string name="title_activity_feed_item_list">FeedItemListActivity</string>
+    <string name="imageDescription">Simple right arrow image</string>
+
+    <string-array name="menuItems">
+        <item>Edit name</item>
+        <item>Edit url</item>
+        <item>Delete</item>
+    </string-array>
+
+</resources>
